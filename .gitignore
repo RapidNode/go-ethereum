@@ -13,7 +13,7 @@
 .ethtest
 */**/*tx_database*
 */**/*dapps*
-build/_vendor/pkg
+
 
 #*
 .#*
@@ -23,9 +23,6 @@ build/_vendor/pkg
 .settings
 
 # used by the Makefile
-/build/_workspace/
-/build/cache/
-/build/bin/
 /geth*.zip
 
 # travis
